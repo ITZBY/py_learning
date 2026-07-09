@@ -1,0 +1,26 @@
+{
+    "code":0,
+    "message":"Success",
+    "sid":"cha00010012@dx19a157dcbb43b4e272",
+    "id":"cha00010012@dx19a157dcbb43b4e272",
+    "created":1761297211,
+    "choices":[{
+        "delta":
+        {
+            "role":"assistant",
+            "content":"",
+            "tool_calls":[{
+                "id":"Call_7ea0da014a510101_1",
+                "type":"function",
+                "function":
+                    {
+                        "name":"",
+                        "arguments":"上海市"
+                    },
+                        "index":1
+                    }],
+                        "type":"function"
+                    },
+                        "index":0
+        }]
+}
